@@ -24,7 +24,7 @@ Provides an overview of maintenance operations including:
 - Equipment Status
 - Monthly Work Orders
 
-![Executive Dashboard](images/executive-dashboard.png)
+![Executive Dashboard](Images/executive-dashboard.png)
 
 ---
 
@@ -43,7 +43,7 @@ Includes:
 - Downtime by Equipment
 - Failure Cause Analysis
 
-![Reliability Analysis](images/reliability-analysis.png)
+![Reliability Analysis](Images/reliability-analysis.png)
 
 ---
 
@@ -63,7 +63,7 @@ Includes:
 - Maintenance Cost by Maintenance Type
 - Cost Breakdown
 
-![Maintenance Cost Analysis](images/maintenance-cost-analysis.png)
+![Maintenance Cost Analysis](Images/maintenance-cost-analysis.png)
 
 ---
 
